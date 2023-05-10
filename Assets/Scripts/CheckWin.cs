@@ -5,6 +5,8 @@ using UnityEngine;
 public class CheckWin : MonoBehaviour
 {
     public GameObject winMessage;
+    public AudioSource winAudioSource;
+    public AudioClip winClip;
 
     // Start is called before the first frame update
     void Start()
@@ -19,6 +21,7 @@ public class CheckWin : MonoBehaviour
             if (!winMessage.activeInHierarchy)
             {
                 winMessage.SetActive(true);
+                winAudioSource.PlayOneShot(winClip);
             }
         }
     }
