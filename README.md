@@ -8,11 +8,12 @@ It is also important that you use GitHub as a place to store your source files a
 
 Requirements checklist:
 
-The maze includes at least four turns.
-The maze includes at least two dead ends.
-The environment objects are aligned to the grid.
-The player must use a grabbable object to progress further.
-A win state is activated upon entering the final section.
-The maze must be playable with the VR headset.
-The project must be on GitHub and marked public.
+- The maze includes at least four turns.
+- The maze includes at least two dead ends.
+- The environment objects are aligned to the grid.
+- The player must use a grabbable object to progress further.
+- A win state is activated upon entering the final section.
+- The maze must be playable with the VR headset.
+- The project must be on GitHub and marked public.
+
 Edit your GitHub ReadMe to include notes about your experience building the maze, such as the challenges you overcame, links to other assets you may have added on your own, and specifically the resources you found to be most helpful. This will be important for your next assignment, where another learner will be reading your notes and entering your maze.
