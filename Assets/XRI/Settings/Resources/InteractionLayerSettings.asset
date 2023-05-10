@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LayerNames:
   - Default
-  - 
-  - 
-  - 
-  - 
+  - XR Interaction
+  - XR Ray Interaction
+  - Teleport
+  - XR Direct Interaction
   - 
   - 
   - 
