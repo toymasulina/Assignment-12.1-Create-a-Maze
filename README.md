@@ -18,7 +18,7 @@ Requirements checklist:
 
 Edit your GitHub ReadMe to include notes about your experience building the maze, such as the challenges you overcame, links to other assets you may have added on your own, and specifically the resources you found to be most helpful. This will be important for your next assignment, where another learner will be reading your notes and entering your maze.
 
-------
+# Build Notes
 
 Initially, I built a dungeon layout using the "Low Poly Dungeons Lite" free pack from the Unity store because the Snaps pack was deprecated. When someone shared the Snaps file in Slack, I decided to restart the project because I was curious about the functionality of the Snaps assets.
 
